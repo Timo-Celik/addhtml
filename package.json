@@ -1,0 +1,9 @@
+{
+  "name": "addhtml",
+  "version": "1.0.0",
+  "description": "client-side importing of html files with pure js",
+  "main": "addHTML.js",
+  "keywords": ["client-side", "html", "import", "pure", "js", "javascript"],
+  "author": "Timo Celik",
+  "license": "GPL-3.0"
+}
